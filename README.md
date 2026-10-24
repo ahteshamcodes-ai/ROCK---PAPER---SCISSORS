@@ -17,4 +17,4 @@ A simple Rock Paper Scissors game built using Python.
 2. Open a terminal in the project folder.
 3. Run:
 
-   python best_of_5.py
+   gameproject.py
